@@ -1,0 +1,1 @@
+In this task I showed the causes of insecure code design and also I tested SQL injection,Command injection and local file inclusion on different platforms,like Portswigger,DVWA and test.php vulnerable site
